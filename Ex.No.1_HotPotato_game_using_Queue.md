@@ -1,5 +1,6 @@
 # Ex.No: 1  Implementation of HotPotato game using Queue 
-### DATE:09/08/2024                                                                         
+### DATE:09/08/2024
+### NAME: Aavula Tharun
 ### REGISTER NUMBER :212221240003
 ### AIM: 
 To write a python program to simulate the process of passing an item among players and eliminating players based on the given rules until a single winner is determined.
