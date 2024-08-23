@@ -115,4 +115,4 @@ while True:
 ![Screenshot 2024-08-16 142915](https://github.com/user-attachments/assets/50dcfe1c-74b2-4829-9f6b-0a47c063f328)
 
 ### Result:
-Thus the simple HotPotato game was implemented using Queue.
+Thus the simple snake game was implemented.
